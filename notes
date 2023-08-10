@@ -1,0 +1,51 @@
+<!-- NOTES -->
+
+    * paragrafnjbgfnmd <span class=highilight> hvcjxm </span> bvchnxm hfcjxm gfdhsn
+    (if you want only like a word to have dif settings in css you put SPAN and a class)
+
+    * ul>li>a*5 (the number you want it to multiply by) -- press TAB
+    (does the whole thing for you/ installed smth called EMMET)
+
+    * button.cta{text to see on screen} --TAB
+    (works for you)
+
+OBS: if you style things in figma or smth (this dude has sketch on apple) you have dimensions and all planned aready and just write the code for it 
+	
+	* <br/> = enter / new line
+	     or just put dif <p> s if thay can work
+
+	*(fascinating work act) 
+	SO, to do more <li> without writing all
+	 write your stuff like a list, seect all, go to SELECTION - split into lines - CTRL left (sagetuta) write - CTRL right (sagetuta) write again
+
+	 * <li>&nbsp;</li> = space that shouldnt be collapsed
+
+	 *POPUP (i mightve skipped that class) - imagine im doing this for the subscribe or sign in smth
+
+	 <div class="poppup">
+		<div class="blanket"></div>
+		<div class="content">
+			<h1> fill in your details 
+			<form action=>
+				<div class=item>
+					<label>name</label>
+					<input type=text placeholder=name value=mac>
+				</div>
+				<div class=item>
+					<label> last name</label>
+					<input type=text placeholder=name>
+				</div>
+				<div class=item>
+					<label>fav col </label>
+					<input type=text placeholder=black is not a color, but same>
+				</div>
+				<div class=item>
+					<label>age</label>
+					<input type=text placeholder=18? kidding>
+				</div>
+			</form>
+			<button class="close"></button>
+		</div>
+	</div>
+
+	* apparently you cant put a JUMP TO ANOTHER PART OF THIS PAGE with the id of that on a BUTTON, you have to make it a link (a href)
